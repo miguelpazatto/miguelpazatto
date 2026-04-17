@@ -9,13 +9,13 @@ I am a **Software Engineering student** based in São Carlos, Brazil, focused on
 - 🇺🇸 **Advanced English** for global collaboration.
 
 ### 🛠 Tech Stack
-- **Languages:** Java (OOP, Collections, Exceptions), SQL.
-- **Tools:** Git, GitHub, VS Code.
-- **Web:** HTML5, CSS3.
-- **OS:** Linux (Ubuntu).
+- **Languages:** Java, Spring Boot, Hibernate, JPA
+- **Database:** PostgreSQL, MySQL, Modelagem de Dados Relacional e SQL
+- **Tools:** Git/GitHub (Gitflow), Docker, Linux (Ubuntu/Debian).
+- **Architecture:** REST APIs.
 
-### 📂 Featured Projects
-- [Agenda de Contatos](https://github.com/miguelpazatto/projetoagenda): A Java SE application focused on **Custom Exception Handling** and OOP principles.
+### 📂 Lead Management System (API de Gestão de Leads)
+- [Leads Manager](https://github.com/miguelpazatto/leads-manager): Development of an API for a real startup aimed at automating the sales funnel and capturing potential clients, including the achievement of implementing a lead scoring logic that processes form submissions and automatically categorizes the urgency of each contact within the database.
 
 ---
 
